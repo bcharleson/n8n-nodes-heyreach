@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-heyreach",
-  "version": "0.1.2-beta",
+  "version": "0.1.3-beta",
   "description": "n8n community node for HeyReach API - LinkedIn automation platform",
   "keywords": [
     "n8n-community-node-package",
@@ -28,7 +28,10 @@
     "build": "tsc && gulp build:icons"
   },
   "files": [
-    "dist"
+    "dist",
+    "icons",
+    "LICENSE",
+    "README.md"
   ],
   "n8n": {
     "n8nNodesApiVersion": 1,

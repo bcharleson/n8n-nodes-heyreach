@@ -1,6 +1,6 @@
 # n8n-nodes-heyreach
 
-![HeyReach Logo](https://heyreach.io/favicon.ico)
+![HeyReach Logo](https://raw.githubusercontent.com/bcharleson/n8n-nodes-heyreach/main/icons/heyreach.svg)
 
 A comprehensive n8n community node for HeyReach - the LinkedIn automation platform that helps you scale your outreach campaigns with advanced targeting and personalization.
 
