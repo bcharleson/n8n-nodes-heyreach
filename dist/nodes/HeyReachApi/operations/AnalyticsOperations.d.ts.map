@@ -1,0 +1,1 @@
+{"version":3,"file":"AnalyticsOperations.d.ts","sourceRoot":"","sources":["../../../../nodes/HeyReachApi/operations/AnalyticsOperations.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAsB,MAAM,cAAc,CAAC;AAIrE;;GAEG;AACH,qBAAa,mBAAmB;IAC/B;;OAEG;WACU,eAAe,CAAC,OAAO,EAAE,iBAAiB,EAAE,SAAS,EAAE,MAAM,GAAG,OAAO,CAAC,GAAG,CAAC;IAwIzF;;OAEG;IACH,OAAO,CAAC,MAAM,CAAC,aAAa;CAgC5B"}
